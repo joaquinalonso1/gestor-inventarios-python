@@ -1,0 +1,14 @@
+{
+    "MONITOR": {
+        "cantidad": 34,
+        "precio": 340000.0
+    },
+    "tablet": {
+        "cantidad": 4,
+        "precio": 30000.0
+    },
+    "PLAY 4": {
+        "cantidad": 34,
+        "precio": 2345666.43
+    }
+}
